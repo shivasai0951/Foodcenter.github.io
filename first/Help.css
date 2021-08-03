@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;    
+}
+.nav-bar{
+    text-align: right;
+    
+}
+.nav-bar ul{
+display: inline-flex;
+list-style: none;
+
+}
+.nav-bar ul li{
+    width: 100px;
+    margin: 15px;
+    padding: 15px;
+}
+.nav-bar ul li a{
+    text-decoration: none;
+    
+}
+.action , .nav-bar ul li{
+    color: red;
+}
